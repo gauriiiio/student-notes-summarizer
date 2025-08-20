@@ -1,0 +1,4 @@
+.env
+myenvr/
+__pycache__/
+.DS_Store
